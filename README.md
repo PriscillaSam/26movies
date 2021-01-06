@@ -14,8 +14,6 @@ Your task is to add a feature that lets the user sort every column of the table.
 If you click the column title for the first time it should sort this column in ascending order.
 When you click the same title again this should toggle between ascending and descending.
 
-Once again have a look at the test suite for the `Table` component.
-
 ## 📍 General hints
 
 ### 🎁 Installing dependencies
